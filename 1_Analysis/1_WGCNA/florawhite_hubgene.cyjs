@@ -1,0 +1,1467 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "florawhite.tsv_MCC_top10_with_neighbors_and_shortest_paths",
+    "name" : "florawhite.tsv_MCC_top10_with_neighbors_and_shortest_paths",
+    "SUID" : 925,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "EBAG9",
+        "name" : "EBAG9",
+        "SUID" : 110,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 13.970232214888506,
+        "y" : 124.29750067172633
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "shared_name" : "NDUFB9",
+        "name" : "NDUFB9",
+        "SUID" : 141,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 125.63958550107832,
+        "y" : 22.353529576877914
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "NSMCE2",
+        "name" : "NSMCE2",
+        "SUID" : 76,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -66.41448621895506,
+        "y" : 118.97668231420435
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "shared_name" : "MRPL15",
+        "name" : "MRPL15",
+        "SUID" : 139,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -140.82161077401668,
+        "y" : -114.15377269946299
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "MTERF3",
+        "name" : "MTERF3",
+        "SUID" : 74,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -82.89138277771572,
+        "y" : -63.802728101862556
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "NUDCD1",
+        "name" : "NUDCD1",
+        "SUID" : 72,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -82.89138277771572,
+        "y" : 26.004243141846807
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "C8orf76",
+        "name" : "C8orf76",
+        "SUID" : 71,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -132.85411614323576,
+        "y" : 84.35752912850137
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "TATDN1",
+        "name" : "TATDN1",
+        "SUID" : 103,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -44.694196435660565,
+        "y" : -91.55460842951098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "ELOC",
+        "name" : "ELOC",
+        "SUID" : 100,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -97.48140968576728,
+        "y" : -18.8992424800079
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "EIF3H",
+        "name" : "EIF3H",
+        "SUID" : 98,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -173.97616084821632,
+        "y" : -8.448816423368484
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "shared_name" : "ESRP1",
+        "name" : "ESRP1",
+        "SUID" : 129,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 52.03375991469119,
+        "y" : -136.366613663172
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "shared_name" : "PFDN4",
+        "name" : "PFDN4",
+        "SUID" : 161,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2.96684950570204,
+        "y" : -153.1113966101364
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "ENY2",
+        "name" : "ENY2",
+        "SUID" : 96,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 40.71730877440056,
+        "y" : 26.004243141846807
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "UBE2V2",
+        "name" : "UBE2V2",
+        "SUID" : 94,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 55.30733568245228,
+        "y" : -18.89924248000787
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "POLR2K",
+        "name" : "POLR2K",
+        "SUID" : 92,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2.520122432345758,
+        "y" : -91.55460842951098
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "shared_name" : "TMEM70",
+        "name" : "TMEM70",
+        "SUID" : 122,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -77.823987157869,
+        "y" : -153.28856927539542
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "MRPL13",
+        "name" : "MRPL13",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2.520122432345758,
+        "y" : 53.75612346949529
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "DCAF13",
+        "name" : "DCAF13",
+        "SUID" : 88,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -44.694196435660565,
+        "y" : 53.75612346949529
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "EIF3E",
+        "name" : "EIF3E",
+        "SUID" : 85,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -170.47264363709925,
+        "y" : -65.59937593661557
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "MED30",
+        "name" : "MED30",
+        "SUID" : 117,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -167.49177144352703,
+        "y" : 41.74637463821013
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "COPS5",
+        "name" : "COPS5",
+        "SUID" : 84,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 40.71730877440056,
+        "y" : -63.802728101862556
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "shared_name" : "MYBL1",
+        "name" : "MYBL1",
+        "SUID" : 145,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 93.48578893063438,
+        "y" : 97.76880331843834
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "UQCRB",
+        "name" : "UQCRB",
+        "SUID" : 79,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 118.16157203186492,
+        "y" : -75.50126497563049
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "112",
+        "source" : "110",
+        "target" : "96",
+        "node2_string_id" : "9606.ENSP00000429986",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.494,
+        "automated_textmining" : 0.451,
+        "node1_string_id" : "9606.ENSP00000337675",
+        "gene_fusion" : 0,
+        "shared_name" : "EBAG9 (interacts with) ENY2",
+        "database_annotated" : 0.0,
+        "name" : "EBAG9 (interacts with) ENY2",
+        "interaction" : "interacts with",
+        "SUID" : 112,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.117,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "110",
+        "target" : "72",
+        "node2_string_id" : "9606.ENSP00000239690",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.571,
+        "automated_textmining" : 0.541,
+        "node1_string_id" : "9606.ENSP00000337675",
+        "gene_fusion" : 0,
+        "shared_name" : "EBAG9 (interacts with) NUDCD1",
+        "database_annotated" : 0.0,
+        "name" : "EBAG9 (interacts with) NUDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 111,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.105,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "141",
+        "target" : "79",
+        "node2_string_id" : "9606.ENSP00000430494",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.998,
+        "automated_textmining" : 0.372,
+        "node1_string_id" : "9606.ENSP00000276689",
+        "gene_fusion" : 0,
+        "shared_name" : "NDUFB9 (interacts with) UQCRB",
+        "database_annotated" : 0.284,
+        "name" : "NDUFB9 (interacts with) UQCRB",
+        "interaction" : "interacts with",
+        "SUID" : 157,
+        "experimentally_determined_interaction" : 0.967,
+        "coexpression" : 0.898,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "141",
+        "target" : "103",
+        "node2_string_id" : "9606.ENSP00000276692",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.474,
+        "automated_textmining" : 0.324,
+        "node1_string_id" : "9606.ENSP00000276689",
+        "gene_fusion" : 0,
+        "shared_name" : "NDUFB9 (interacts with) TATDN1",
+        "database_annotated" : 0.0,
+        "name" : "NDUFB9 (interacts with) TATDN1",
+        "interaction" : "interacts with",
+        "SUID" : 156,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.253,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "76",
+        "target" : "94",
+        "node2_string_id" : "9606.ENSP00000428209",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.472,
+        "automated_textmining" : 0.436,
+        "node1_string_id" : "9606.ENSP00000287437",
+        "gene_fusion" : 0,
+        "shared_name" : "NSMCE2 (interacts with) UBE2V2",
+        "database_annotated" : 0.0,
+        "name" : "NSMCE2 (interacts with) UBE2V2",
+        "interaction" : "interacts with",
+        "SUID" : 158,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.102,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "139",
+        "target" : "74",
+        "node2_string_id" : "9606.ENSP00000287025",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.46,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000260102",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL15 (interacts with) MTERF3",
+        "database_annotated" : 0.0,
+        "name" : "MRPL15 (interacts with) MTERF3",
+        "interaction" : "interacts with",
+        "SUID" : 151,
+        "experimentally_determined_interaction" : 0.218,
+        "coexpression" : 0.338,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "source" : "71",
+        "target" : "76",
+        "node2_string_id" : "9606.ENSP00000287437",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.498,
+        "automated_textmining" : 0.207,
+        "node1_string_id" : "9606.ENSP00000276704",
+        "gene_fusion" : 0,
+        "shared_name" : "C8orf76 (interacts with) NSMCE2",
+        "database_annotated" : 0.0,
+        "name" : "C8orf76 (interacts with) NSMCE2",
+        "interaction" : "interacts with",
+        "SUID" : 77,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.393,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "source" : "71",
+        "target" : "74",
+        "node2_string_id" : "9606.ENSP00000287025",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.437,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000276704",
+        "gene_fusion" : 0,
+        "shared_name" : "C8orf76 (interacts with) MTERF3",
+        "database_annotated" : 0.0,
+        "name" : "C8orf76 (interacts with) MTERF3",
+        "interaction" : "interacts with",
+        "SUID" : 75,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.437,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "source" : "71",
+        "target" : "72",
+        "node2_string_id" : "9606.ENSP00000239690",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.466,
+        "automated_textmining" : 0.348,
+        "node1_string_id" : "9606.ENSP00000276704",
+        "gene_fusion" : 0,
+        "shared_name" : "C8orf76 (interacts with) NUDCD1",
+        "database_annotated" : 0.0,
+        "name" : "C8orf76 (interacts with) NUDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 73,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.215,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "100",
+        "target" : "96",
+        "node2_string_id" : "9606.ENSP00000429986",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.401,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000478121",
+        "gene_fusion" : 0,
+        "shared_name" : "ELOC (interacts with) ENY2",
+        "database_annotated" : 0.0,
+        "name" : "ELOC (interacts with) ENY2",
+        "interaction" : "interacts with",
+        "SUID" : 126,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.401,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "100",
+        "target" : "94",
+        "node2_string_id" : "9606.ENSP00000428209",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.632,
+        "automated_textmining" : 0.441,
+        "node1_string_id" : "9606.ENSP00000478121",
+        "gene_fusion" : 0,
+        "shared_name" : "ELOC (interacts with) UBE2V2",
+        "database_annotated" : 0.0,
+        "name" : "ELOC (interacts with) UBE2V2",
+        "interaction" : "interacts with",
+        "SUID" : 125,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.369,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "100",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.684,
+        "automated_textmining" : 0.061,
+        "node1_string_id" : "9606.ENSP00000478121",
+        "gene_fusion" : 0,
+        "shared_name" : "ELOC (interacts with) POLR2K",
+        "database_annotated" : 0.5,
+        "name" : "ELOC (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 124,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.382,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "100",
+        "target" : "122",
+        "node2_string_id" : "9606.ENSP00000312599",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.587,
+        "automated_textmining" : 0.457,
+        "node1_string_id" : "9606.ENSP00000478121",
+        "gene_fusion" : 0,
+        "shared_name" : "ELOC (interacts with) TMEM70",
+        "database_annotated" : 0.0,
+        "name" : "ELOC (interacts with) TMEM70",
+        "interaction" : "interacts with",
+        "SUID" : 123,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.271,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "source" : "100",
+        "target" : "90",
+        "node2_string_id" : "9606.ENSP00000306548",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.653,
+        "automated_textmining" : 0.356,
+        "node1_string_id" : "9606.ENSP00000478121",
+        "gene_fusion" : 0,
+        "shared_name" : "ELOC (interacts with) MRPL13",
+        "database_annotated" : 0.0,
+        "name" : "ELOC (interacts with) MRPL13",
+        "interaction" : "interacts with",
+        "SUID" : 121,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.484,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "source" : "100",
+        "target" : "72",
+        "node2_string_id" : "9606.ENSP00000239690",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.644,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000478121",
+        "gene_fusion" : 0,
+        "shared_name" : "ELOC (interacts with) NUDCD1",
+        "database_annotated" : 0.0,
+        "name" : "ELOC (interacts with) NUDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 120,
+        "experimentally_determined_interaction" : 0.619,
+        "coexpression" : 0.106,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "98",
+        "target" : "117",
+        "node2_string_id" : "9606.ENSP00000297347",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.545,
+        "automated_textmining" : 0.502,
+        "node1_string_id" : "9606.ENSP00000429931",
+        "gene_fusion" : 0,
+        "shared_name" : "EIF3H (interacts with) MED30",
+        "database_annotated" : 0.0,
+        "name" : "EIF3H (interacts with) MED30",
+        "interaction" : "interacts with",
+        "SUID" : 118,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.124,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "129",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.626,
+        "automated_textmining" : 0.267,
+        "node1_string_id" : "9606.ENSP00000405738",
+        "gene_fusion" : 0,
+        "shared_name" : "ESRP1 (interacts with) POLR2K",
+        "database_annotated" : 0.5,
+        "name" : "ESRP1 (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 130,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.061,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "161",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.231,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.823,
+        "automated_textmining" : 0.286,
+        "node1_string_id" : "9606.ENSP00000360473",
+        "gene_fusion" : 0,
+        "shared_name" : "PFDN4 (interacts with) POLR2K",
+        "database_annotated" : 0.0,
+        "name" : "PFDN4 (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 163,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.703,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "96",
+        "target" : "90",
+        "node2_string_id" : "9606.ENSP00000306548",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.401,
+        "automated_textmining" : 0.08,
+        "node1_string_id" : "9606.ENSP00000429986",
+        "gene_fusion" : 0,
+        "shared_name" : "ENY2 (interacts with) MRPL13",
+        "database_annotated" : 0.0,
+        "name" : "ENY2 (interacts with) MRPL13",
+        "interaction" : "interacts with",
+        "SUID" : 128,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.376,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "96",
+        "target" : "72",
+        "node2_string_id" : "9606.ENSP00000239690",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.731,
+        "automated_textmining" : 0.706,
+        "node1_string_id" : "9606.ENSP00000429986",
+        "gene_fusion" : 0,
+        "shared_name" : "ENY2 (interacts with) NUDCD1",
+        "database_annotated" : 0.0,
+        "name" : "ENY2 (interacts with) NUDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 127,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.123,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "92",
+        "target" : "79",
+        "node2_string_id" : "9606.ENSP00000430494",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.508,
+        "automated_textmining" : 0.206,
+        "node1_string_id" : "9606.ENSP00000342889",
+        "gene_fusion" : 0,
+        "shared_name" : "POLR2K (interacts with) UQCRB",
+        "database_annotated" : 0.0,
+        "name" : "POLR2K (interacts with) UQCRB",
+        "interaction" : "interacts with",
+        "SUID" : 165,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.406,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "92",
+        "target" : "103",
+        "node2_string_id" : "9606.ENSP00000276692",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.433,
+        "automated_textmining" : 0.18,
+        "node1_string_id" : "9606.ENSP00000342889",
+        "gene_fusion" : 0,
+        "shared_name" : "POLR2K (interacts with) TATDN1",
+        "database_annotated" : 0.0,
+        "name" : "POLR2K (interacts with) TATDN1",
+        "interaction" : "interacts with",
+        "SUID" : 164,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "90",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.639,
+        "automated_textmining" : 0.164,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) POLR2K",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 150,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.586,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "90",
+        "target" : "122",
+        "node2_string_id" : "9606.ENSP00000312599",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.512,
+        "automated_textmining" : 0.328,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) TMEM70",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) TMEM70",
+        "interaction" : "interacts with",
+        "SUID" : 149,
+        "experimentally_determined_interaction" : 0.095,
+        "coexpression" : 0.262,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "90",
+        "target" : "79",
+        "node2_string_id" : "9606.ENSP00000430494",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.475,
+        "automated_textmining" : 0.153,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) UQCRB",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) UQCRB",
+        "interaction" : "interacts with",
+        "SUID" : 148,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.405,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "90",
+        "target" : "94",
+        "node2_string_id" : "9606.ENSP00000428209",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.417,
+        "automated_textmining" : 0.272,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) UBE2V2",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) UBE2V2",
+        "interaction" : "interacts with",
+        "SUID" : 147,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.232,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "90",
+        "target" : "145",
+        "node2_string_id" : "9606.ENSP00000429633",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.414,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) MYBL1",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) MYBL1",
+        "interaction" : "interacts with",
+        "SUID" : 146,
+        "experimentally_determined_interaction" : 0.401,
+        "coexpression" : 0.063,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "90",
+        "target" : "74",
+        "node2_string_id" : "9606.ENSP00000287025",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.67,
+        "automated_textmining" : 0.091,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) MTERF3",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) MTERF3",
+        "interaction" : "interacts with",
+        "SUID" : 144,
+        "experimentally_determined_interaction" : 0.496,
+        "coexpression" : 0.338,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "90",
+        "target" : "103",
+        "node2_string_id" : "9606.ENSP00000276692",
+        "neighborhood_on_chromosome" : 0.061,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.477,
+        "automated_textmining" : 0.281,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) TATDN1",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) TATDN1",
+        "interaction" : "interacts with",
+        "SUID" : 143,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "90",
+        "target" : "141",
+        "node2_string_id" : "9606.ENSP00000276689",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.505,
+        "automated_textmining" : 0.101,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) NDUFB9",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) NDUFB9",
+        "interaction" : "interacts with",
+        "SUID" : 142,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.472,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "90",
+        "target" : "139",
+        "node2_string_id" : "9606.ENSP00000260102",
+        "neighborhood_on_chromosome" : 0.056,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.999,
+        "automated_textmining" : 0.166,
+        "node1_string_id" : "9606.ENSP00000306548",
+        "gene_fusion" : 0,
+        "shared_name" : "MRPL13 (interacts with) MRPL15",
+        "database_annotated" : 0.0,
+        "name" : "MRPL13 (interacts with) MRPL15",
+        "interaction" : "interacts with",
+        "SUID" : 140,
+        "experimentally_determined_interaction" : 0.996,
+        "coexpression" : 0.767,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "source" : "88",
+        "target" : "90",
+        "node2_string_id" : "9606.ENSP00000306548",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.561,
+        "automated_textmining" : 0.419,
+        "node1_string_id" : "9606.ENSP00000297579",
+        "gene_fusion" : 0,
+        "shared_name" : "DCAF13 (interacts with) MRPL13",
+        "database_annotated" : 0.0,
+        "name" : "DCAF13 (interacts with) MRPL13",
+        "interaction" : "interacts with",
+        "SUID" : 106,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.275,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "88",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.428,
+        "automated_textmining" : 0.245,
+        "node1_string_id" : "9606.ENSP00000297579",
+        "gene_fusion" : 0,
+        "shared_name" : "DCAF13 (interacts with) POLR2K",
+        "database_annotated" : 0.0,
+        "name" : "DCAF13 (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 105,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.274,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "source" : "88",
+        "target" : "103",
+        "node2_string_id" : "9606.ENSP00000276692",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.432,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000297579",
+        "gene_fusion" : 0,
+        "shared_name" : "DCAF13 (interacts with) TATDN1",
+        "database_annotated" : 0.0,
+        "name" : "DCAF13 (interacts with) TATDN1",
+        "interaction" : "interacts with",
+        "SUID" : 104,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.432,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "source" : "88",
+        "target" : "72",
+        "node2_string_id" : "9606.ENSP00000239690",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.481,
+        "automated_textmining" : 0.207,
+        "node1_string_id" : "9606.ENSP00000297579",
+        "gene_fusion" : 0,
+        "shared_name" : "DCAF13 (interacts with) NUDCD1",
+        "database_annotated" : 0.0,
+        "name" : "DCAF13 (interacts with) NUDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 102,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.373,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "source" : "85",
+        "target" : "98",
+        "node2_string_id" : "9606.ENSP00000429931",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.999,
+        "automated_textmining" : 0.977,
+        "node1_string_id" : "9606.ENSP00000220849",
+        "gene_fusion" : 0,
+        "shared_name" : "EIF3E (interacts with) EIF3H",
+        "database_annotated" : 0.9,
+        "name" : "EIF3E (interacts with) EIF3H",
+        "interaction" : "interacts with",
+        "SUID" : 116,
+        "experimentally_determined_interaction" : 0.997,
+        "coexpression" : 0.925,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "source" : "85",
+        "target" : "103",
+        "node2_string_id" : "9606.ENSP00000276692",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.608,
+        "automated_textmining" : 0.238,
+        "node1_string_id" : "9606.ENSP00000220849",
+        "gene_fusion" : 0,
+        "shared_name" : "EIF3E (interacts with) TATDN1",
+        "database_annotated" : 0.0,
+        "name" : "EIF3E (interacts with) TATDN1",
+        "interaction" : "interacts with",
+        "SUID" : 113,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.507,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "117",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.842,
+        "automated_textmining" : 0.159,
+        "node1_string_id" : "9606.ENSP00000297347",
+        "gene_fusion" : 0,
+        "shared_name" : "MED30 (interacts with) POLR2K",
+        "database_annotated" : 0.0,
+        "name" : "MED30 (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 138,
+        "experimentally_determined_interaction" : 0.812,
+        "coexpression" : 0.083,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "117",
+        "target" : "72",
+        "node2_string_id" : "9606.ENSP00000239690",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.698,
+        "automated_textmining" : 0.182,
+        "node1_string_id" : "9606.ENSP00000297347",
+        "gene_fusion" : 0,
+        "shared_name" : "MED30 (interacts with) NUDCD1",
+        "database_annotated" : 0.0,
+        "name" : "MED30 (interacts with) NUDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 137,
+        "experimentally_determined_interaction" : 0.619,
+        "coexpression" : 0.109,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "84",
+        "target" : "100",
+        "node2_string_id" : "9606.ENSP00000478121",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.96,
+        "automated_textmining" : 0.509,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) ELOC",
+        "database_annotated" : 0.0,
+        "name" : "COPS5 (interacts with) ELOC",
+        "interaction" : "interacts with",
+        "SUID" : 101,
+        "experimentally_determined_interaction" : 0.854,
+        "coexpression" : 0.496,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "84",
+        "target" : "98",
+        "node2_string_id" : "9606.ENSP00000429931",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.574,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.938,
+        "automated_textmining" : 0.51,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) EIF3H",
+        "database_annotated" : 0.72,
+        "name" : "COPS5 (interacts with) EIF3H",
+        "interaction" : "interacts with",
+        "SUID" : 99,
+        "experimentally_determined_interaction" : 0.435,
+        "coexpression" : 0.302,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "84",
+        "target" : "96",
+        "node2_string_id" : "9606.ENSP00000429986",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.441,
+        "automated_textmining" : 0.149,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) ENY2",
+        "database_annotated" : 0.0,
+        "name" : "COPS5 (interacts with) ENY2",
+        "interaction" : "interacts with",
+        "SUID" : 97,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.37,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "source" : "84",
+        "target" : "94",
+        "node2_string_id" : "9606.ENSP00000428209",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.431,
+        "automated_textmining" : 0.146,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) UBE2V2",
+        "database_annotated" : 0.0,
+        "name" : "COPS5 (interacts with) UBE2V2",
+        "interaction" : "interacts with",
+        "SUID" : 95,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.361,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "84",
+        "target" : "92",
+        "node2_string_id" : "9606.ENSP00000342889",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.664,
+        "automated_textmining" : 0.142,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) POLR2K",
+        "database_annotated" : 0.5,
+        "name" : "COPS5 (interacts with) POLR2K",
+        "interaction" : "interacts with",
+        "SUID" : 93,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.281,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "84",
+        "target" : "90",
+        "node2_string_id" : "9606.ENSP00000306548",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.516,
+        "automated_textmining" : 0.085,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) MRPL13",
+        "database_annotated" : 0.0,
+        "name" : "COPS5 (interacts with) MRPL13",
+        "interaction" : "interacts with",
+        "SUID" : 91,
+        "experimentally_determined_interaction" : 0.069,
+        "coexpression" : 0.477,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "source" : "84",
+        "target" : "88",
+        "node2_string_id" : "9606.ENSP00000297579",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.548,
+        "automated_textmining" : 0.091,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) DCAF13",
+        "database_annotated" : 0.4,
+        "name" : "COPS5 (interacts with) DCAF13",
+        "interaction" : "interacts with",
+        "SUID" : 89,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.238,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "source" : "84",
+        "target" : "74",
+        "node2_string_id" : "9606.ENSP00000287025",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.468,
+        "automated_textmining" : 0.0,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) MTERF3",
+        "database_annotated" : 0.0,
+        "name" : "COPS5 (interacts with) MTERF3",
+        "interaction" : "interacts with",
+        "SUID" : 87,
+        "experimentally_determined_interaction" : 0.0,
+        "coexpression" : 0.468,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "source" : "84",
+        "target" : "85",
+        "node2_string_id" : "9606.ENSP00000220849",
+        "neighborhood_on_chromosome" : 0.0,
+        "homology" : 0.0,
+        "shared_interaction" : "interacts with",
+        "phylogenetic_cooccurrence" : 0.0,
+        "combined_score" : 0.93,
+        "automated_textmining" : 0.44,
+        "node1_string_id" : "9606.ENSP00000350512",
+        "gene_fusion" : 0,
+        "shared_name" : "COPS5 (interacts with) EIF3E",
+        "database_annotated" : 0.72,
+        "name" : "COPS5 (interacts with) EIF3E",
+        "interaction" : "interacts with",
+        "SUID" : 86,
+        "experimentally_determined_interaction" : 0.406,
+        "coexpression" : 0.338,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

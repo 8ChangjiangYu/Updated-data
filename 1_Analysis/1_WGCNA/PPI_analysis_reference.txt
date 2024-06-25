@@ -1,0 +1,19 @@
+1. blue: high confidence = 0.4
+	Score: 20.545
+	Nodes: 34
+	Edges: 339
+
+2. florawhite: high confidence = 0.4
+	Score: 4.636
+	Nodes: 23
+	Edges: 51
+
+3. magenta: high confidence = 0.4
+	Score: 27.511
+	Nodes: 46
+	Edges: 619
+
+4. pink: high confidence = 0.4
+	Score: 12
+	Nodes: 24
+	Edges: 138
